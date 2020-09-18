@@ -1,4 +1,4 @@
-# flutterdemo
+# Authenticator using AUTH0
 
 A new Flutter project.
 
